@@ -1,4 +1,4 @@
-![Header](./[[Your header image](https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/examples/example-1.png)])
+![Header](./[https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/examples/example-1.png])
 
 ## Hi there 👋
 
